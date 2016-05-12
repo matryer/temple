@@ -3,7 +3,7 @@ package reloader
 import (
 	"log"
 
-	"github.com/tripism/temple"
+	"github.com/matryer/temple"
 	"gopkg.in/fsnotify.v1"
 )
 
